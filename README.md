@@ -1,6 +1,6 @@
-# BaatChit 💬
+# LetsChat 💬
 
-BaatChit is a modern, responsive, full-stack real-time chat application that enables users to connect and chat instantly. It features secure user authentication, real-time message delivery, online status indicators, unseen message badges, and image sharing capabilities.
+LetsChat is a modern, responsive, full-stack real-time chat application that enables users to connect and chat instantly. It features secure user authentication, real-time message delivery, online status indicators, unseen message badges, and image sharing capabilities.
 
 ---
 
